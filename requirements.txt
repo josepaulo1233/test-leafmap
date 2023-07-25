@@ -1,0 +1,11 @@
+plotly==5.15.0
+pandas
+numpy
+folium
+streamlit_folium
+plotly
+leafmap
+xarray
+rioxarray 
+netcdf4
+localtileserver
