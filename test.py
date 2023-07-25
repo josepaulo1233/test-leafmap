@@ -3,7 +3,7 @@ import streamlit as st
 
 st.header('Test')
 
-filename = 'wind_global.nc'
+filename = 'test-leafmap/wind_global.nc'
 geojson = 'https://github.com/opengeos/leafmap/raw/master/examples/data/countries.geojson'
 m = leafmap.Map(layers_control=True)
 m.add_basemap('CartoDB.DarkMatter')
